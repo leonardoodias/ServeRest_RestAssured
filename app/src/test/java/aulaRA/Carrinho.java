@@ -1,9 +1,8 @@
-package restassuredclass;
+package aulaRA;
 
 import org.apache.http.HttpStatus;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.is;
-import io.restassured.path.json.JsonPath;
 
 public class Carrinho {
     private String idProduto;

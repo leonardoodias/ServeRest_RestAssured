@@ -1,9 +1,8 @@
-package restassuredclass;
+package aulaRA;
 
 import org.junit.Before;
 import org.junit.Test;
 import com.github.javafaker.Faker;
-import org.yaml.snakeyaml.constructor.SafeConstructor;
 
 import static org.junit.Assert.*;
 

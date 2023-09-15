@@ -1,4 +1,4 @@
-package restassuredclass;
+package aulaRA;
 
 import org.apache.http.HttpStatus;
 import static io.restassured.RestAssured.*;

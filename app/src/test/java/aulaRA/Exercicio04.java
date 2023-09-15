@@ -1,4 +1,4 @@
-package restassuredclass;
+package aulaRA;
 
 import com.github.javafaker.Faker;
 import org.junit.Before;
